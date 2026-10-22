@@ -6,7 +6,7 @@
 ![Proyecto](https://img.shields.io/badge/proyecto-Capstone%202026-blue)
 ![Institución](https://img.shields.io/badge/instituci%C3%B3n-Duoc%20UC-red)
 
-> Proyecto Capstone de Ingeniería en Informática de **Duoc UC**, desarrollado en colaboración con la **Cámara Chilena de la Construcción (CChC)**.
+> Proyecto Capstone de Ingeniería en Informática de **Duoc UC**, desarrollado por **Cámara Chilena de la Construcción (CChC)** colaborando con DuocUC.
 
 ## 📖 Descripción
 
@@ -56,7 +56,7 @@ El trabajo contempla las siguientes etapas, que pueden solaparse según los hall
 
 **Proyecto Capstone 2026 — Ingeniería en Informática, Duoc UC**
 
-- Nicolás
+- Nicolas
 - Francisco
 
 **Entidad colaboradora:** Cámara Chilena de la Construcción (CChC).
